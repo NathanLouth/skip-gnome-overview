@@ -1,0 +1,7 @@
+{
+  "uuid": "skip-overview@nathanlouth.github.com",
+  "name": "Skip Overview",
+  "description": "Skip Overview on Login",
+  "version": 1,
+  "shell-version": ["49"]
+}
